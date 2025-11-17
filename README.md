@@ -1,7 +1,7 @@
 # 3.-Design-and-Simulation-of-half-wave-rectifier-controlled-by-a-thyristor
 ## AIM
 To design, simulate and analyse a half wave controlled rectifier using one thyristor in MATLAB Simulink.
-## APPARATUS REQUIRED
+## APPARATUS REQUIREDm
 •	MATLAB
 ## PROCEDURE
 1.	Open MATLAB and click on the icon for SIMULINK as shown below
